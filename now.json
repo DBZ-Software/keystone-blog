@@ -1,0 +1,8 @@
+{
+	"env": {
+		"COOKIE_SECRET": "@cookie-secret",
+		"CLOUDINARY_URL": "@cloudinary-url",
+		"MAILGUN_API_KEY": "@mailgun-api-key",
+		"MAILGUN_DOMAIN": "@mailgun-domain"
+	}
+}
