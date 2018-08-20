@@ -5,6 +5,7 @@ var filesToCache = [
 	'/',
 	'/favicon.ico',
 	'/styles/site.min.css',
+	'/js/main.js',
 	'/js/jquery/jquery-1.11.3.min.js',
 	'/js/bootstrap/bootstrap-3.3.5.min.js',
 ];
