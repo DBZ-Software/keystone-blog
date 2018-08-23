@@ -1,28 +1,28 @@
 {
-  "name": "keystoneblog",
-  "version": "0.0.0",
-  "private": true,
-  "dependencies": {
-    "keystone": "4.0.0-beta.5",
-    "lodash": "^4.13.1",
-    "pug": "2.0.0-beta11",
-    "dotenv": "4.0.0",
-    "keystone-email": "1.0.5",
-    "async": "2.1.4"
-  },
-  "devDependencies": {
-    "eslint": "3.15.0",
-    "eslint-config-keystone": "3.0.0",
-    "eslint-plugin-react": "^5.1.1",
-    "nodemon": "^1.18.3"
-  },
-  "scripts": {
-    "lint": "eslint .",
-    "start": "node keystone.js",
-    "dev": "nodemon keystone.js",
-    "debug": "node debug keystone.js"
-  },
-  "engines": {
-    "node": "8.9.4"
-  }
+	"name": "keystoneblog",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"keystone": "4.0.0-beta.5",
+		"lodash": "^4.13.1",
+		"pug": "2.0.0-beta11",
+		"dotenv": "4.0.0",
+		"keystone-email": "1.0.5",
+		"async": "2.1.4"
+	},
+	"devDependencies": {
+		"eslint": "3.15.0",
+		"eslint-config-keystone": "3.0.0",
+		"eslint-plugin-react": "^5.1.1",
+		"nodemon": "^1.18.3"
+	},
+	"scripts": {
+		"lint": "eslint .",
+		"start": "node keystone.js",
+		"dev": "nodemon keystone.js",
+		"debug": "node debug keystone.js"
+	},
+	"engines": {
+		"node": "8.9.4"
+	}
 }
